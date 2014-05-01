@@ -1,4 +1,4 @@
-package doers
+package main
 
 import "github.com/joamag/goers/src/goers"
 
