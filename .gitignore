@@ -1,0 +1,5 @@
+*.exe
+
+/pkg
+/out
+/.idea/workspace.xml
