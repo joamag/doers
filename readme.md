@@ -1,4 +1,4 @@
-# Support for goers project
+# Doers
 
 Extra project associated with the goers project, the sole objective of the project is
 to test the created [goers](https://github.com/joamag/goers) infra-structure.
