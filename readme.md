@@ -9,3 +9,7 @@ to test the created [goers](https://github.com/joamag/goers) infra-structure.
 go get github.com/joamag/doers/src/doers
 go build github.com/joamag/doers/src/doers
 ```
+
+```bash
+go get -u github.com/joamag/doers/src/doers
+```
