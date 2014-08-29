@@ -13,7 +13,7 @@ go get github.com/joamag/doers/src/doers
 go build github.com/joamag/doers/src/doers
 ```
 
-If the intentn is to install the doers into the ``$GOPATH`` directory the global install
+If the intent is to install the doers into the ``$GOPATH`` directory the global install
 mode should be activated using:
 
 ```bash
